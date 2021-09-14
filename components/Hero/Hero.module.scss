@@ -34,12 +34,12 @@
   @media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
     only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em),
     only screen and (min-width: 125em) {
-    background-image: linear-gradient(
+    /*     background-image: linear-gradient(
         to right bottom,
         rgba($color-primary-light, 0.5),
         rgba($color-primary-dark, 0.5)
       ),
-      url(./back.jpg);
+      url(./back.jpg); */
   }
 
   @include respond(phone) {
@@ -86,6 +86,7 @@
     font-size: 6rem;
     font-weight: 400;
     letter-spacing: 0.5rem;
+    color: white;
 
     animation: moveInLeft 1s ease-out; /*duration timing-function delay iteration-count direction fill-mode;*/
 
