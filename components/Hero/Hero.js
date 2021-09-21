@@ -18,7 +18,7 @@ const Header = () => {
           Une toile unique et personnalisable !
         </span>
         <span className={classes.headingPrimary__sub}>
-          voici notre réalisation sous le signe de la famille
+          voici notre réalisation sous le signe de la famille.
         </span>
         <h2>Arbre de l'amour éternel</h2>
         <div> IMAGE </div>
