@@ -13,7 +13,7 @@ const Header = () => {
           <span className={classes.headingPrimary__main}> Peint tes rêves</span>
         </h1>
         <span className={classes.headingPrimary__sub}>
-          Un cadeau idéal pour les personnes que vous aimez ! Un cadeau idéal
+          Un cadeau idéal pour les personnes que vous aimez ! Un cadeau idéal.
           pour les personnes que vous aimez ! <br />
           Une toile unique et personnalisable !
         </span>
